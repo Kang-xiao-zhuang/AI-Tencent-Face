@@ -7,8 +7,8 @@ public class AddFace {
     public static void main(String[] args) throws Exception {
 
         AppConfig config = new AppConfig();
-        config.setSecretId("AKIDHQxPq8aFvX5slZPA7413JYYbmmXC39EB");
-        config.setSecretKey("0qZPBtSw02qZNJAADFD72lKukikcbkjv");
+        config.setSecretId("xxxxx");
+        config.setSecretKey("xxxx");
         config.setServerIp("iai.tencentcloudapi.com");
         config.setArea("ap-nanjing");
         config.setGroupId("01");
